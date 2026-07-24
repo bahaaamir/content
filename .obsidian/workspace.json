@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "8ce422c9025ec3c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "69105c9ed947e6be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f16a0e773bcf0818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Protocols and Core Infrastructure/Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cb9b1027d9cd884",
+    "type": "split",
+    "children": [
+      {
+        "id": "324b498098537f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900c6eb8e27b8f2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07ce1cb5e8f6cf22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e53f3aa85962a223",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "d7e9d8ac9d01674a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e793535efbc734eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "346897aa447e7085",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Protocols and Core Infrastructure/Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters"
+            }
+          },
+          {
+            "id": "727885a781dd9a64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Protocols and Core Infrastructure/Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters"
+            }
+          },
+          {
+            "id": "c827d74b649d1a88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "328efb9e5f6b0853",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "417ce73bfa885680",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Protocols and Core Infrastructure/Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Horizontal Scaling of WebSocket Servers using Redis Pub-Sub Adapters"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f16a0e773bcf0818",
+  "lastOpenFiles": [
+    "01 - Protocols and Core Infrastructure/HTTP-1.x, HTTP-2, and HTTP-3 (QUIC Protocol) Deep Dive.md",
+    "00 - Overview.md",
+    "01 - Protocols and Core Infrastructure/DNS Architecture - Resolution, Caching, Load Balancing, and DNSSEC.md",
+    "01 - Protocols and Core Infrastructure/How the Internet and Browsers Work Under the Hood.md"
+  ]
+}
